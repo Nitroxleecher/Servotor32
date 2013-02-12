@@ -17,6 +17,7 @@
 #define GROUPS 4
 #define SERVOS_PER_GROUP 8
 
+#define ARCPING_STEPS 90
 
 class Servotor32 {
 public:
